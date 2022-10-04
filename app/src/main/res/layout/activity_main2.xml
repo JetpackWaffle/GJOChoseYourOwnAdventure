@@ -4,40 +4,37 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
     <Button
-        android:id="@+id/buttonoption2a"
+        android:id="@+id/buttonoption1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:onClick="option2"
-        android:text="Go to the Business building"
-        app:layout_constraintBottom_toTopOf="@+id/buttonoption3a"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/buttonoption3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/buttonoption3a"
+        android:id="@+id/buttonoption2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:onClick="option3"
-        android:text="Go back to sleep."
+        android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/buttonoption1a"
+        android:id="@+id/buttonoption3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:onClick="option1"
-        android:text="Go to the bean"
-        app:layout_constraintBottom_toTopOf="@+id/buttonoption2a"
+        android:text="Button"
+        app:layout_constraintBottom_toTopOf="@+id/buttonoption2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
@@ -49,7 +46,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/buttonoption1a"
+        app:layout_constraintBottom_toTopOf="@+id/buttonoption1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -60,10 +57,10 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textViewA"
+                android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/SC00"
+                android:text="TextView"
                 android:textSize="20sp" />
         </LinearLayout>
     </ScrollView>

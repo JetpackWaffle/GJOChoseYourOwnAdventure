@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Choose Your Own Adventure!</string>
-    <string name="SC00">You go back to sleep for a bit. You wake up again, it’s 8:30.</string>
-    <string name="SC01">You drift off again. You wake up with a jolt, worried you overslept, at 8:45. You feel like you really should get going.</string>
-    <string name="SC02">Well you’re a beacon of sunshine, aren’t you? Fine. You go back to sleep, and wake up, prepared for the day. It’s 5:40 in the afternoon. You’ve slept through the day. Good job.</string>
+    <string name="SC00">You wake up, it’s 8:02. You have your first class at 9:30, you’re deciding what to do before then.</string>
+    <string name="SC01">You go back to sleep for a bit. You wake up again, it’s 8:30.</string>
+    <string name="SC02">You drift off again. You wake up with a jolt, worried you overslept, at 8:45. You feel like you really should get going.</string>
+    <string name="SC03">Well you’re a beacon of sunshine, aren’t you? Fine. You go back to sleep, and wake up, prepared for the day. It’s 5:40 in the afternoon. You’ve slept through the day. Good job.</string>
     <string name="SC10">You leave your apartment at UP, and start across the campus towards the bean, hoping they have something tasty. You’re in the mood for some bacon, but ham would be nice too. You get there, and to your dismay, they have bear. Just one. It’s alive. There is a bear in the bean. It’s blocking the way between the registers and the rest of the bean.</string>
     <string name="SC11">You walk to the edge of the admittedly wide hallway, and attempt to get past the bear. It doesn’t seem to actually mind your presence, and lets you by. You breath a sigh of relief, and go to get some food. They do have bacon, sweet! They also have eggs though, and for some reason the laws of the universe allow you to take only one.</string>
     <string name="SC12">You eat the bacon. They didn’t cook it very well today. You go to leave the bean, but the bear approaches you. It seems like it can smell the meat on your breath.</string>
@@ -15,7 +16,7 @@
     <string name="SC19">The bear looks at your answers, and its eyes widen, and a smile crosses its snout. It stands on its hind legs, grabs your hand with its paw, and shakes it, before going to wait by the entrance again. You’re not sure what to do about this situation, so just pass the bear and go to your class.</string>
     <string name="SC20">You run past the bear, It turns around and makes a concerned sounding moan. You look back at it, missing the wet floor sign by the entrance. You slip backwards, and fall on your back, knocking yourself out.</string>
     <string name="SC21">You leave the bacon on the ground, and sneak past the bear. It looks over at you, confusedly, but it decides the bacon is more interesting, and goes to eat it. You breathe a sigh of relief, and go to class.</string>
-    <string name="SC23">You go towards the fire exit, and find it boarded shut, with a sign reading “Due to the multiple people trying to sneak out this door, it is temporarily closed.” You look at the door, and back to the bear, your mind whirling, and you end up passing out from the stress.</string>
+    <string name="SC22">You go towards the fire exit, and find it boarded shut, with a sign reading “Due to the multiple people trying to sneak out this door, it is temporarily closed.” You look at the door, and back to the bear, your mind whirling, and you end up passing out from the stress.</string>
     <string name="SC23">You wake up. You’re a salamander napping on a rock. You move slightly to the left, to get back into the sun. All the thoughts of student loans and classes slip away as you drift back to sleep, not a worry in the world.</string>
     <string name="SC24">Thinking quick, you throw your phone at the bear. It looks over at you, annoyed, before looking back. You feel like that wasn’t a good idea.</string>
     <string name="SC25">You take off your backpack and toss it at the bear. This seems to do considerably more, as it growls, and runs towards you.</string>
@@ -60,7 +61,4 @@
     <string name="SC67">You rush to tackle him, but he steps out of the arena just as you do, causing you to fall to the floor. It’s very embarrassing all around. </string>
     <string name="SC68">You say you’re sorry, and that you probably took it too far. Tanner says it’s ok, and steps out of the arena to get headache medicine.</string>
     <string name="SCbear">You reach around for something, but can’t find anything useful to use. Tanner steps forward, and you panic about what to do, before you hear something approaching down the hallway, before crashing through the glass wall. It’s the bear! It runs towards Tanner, who panics and runs out from the class. The bear nods at you, before running after him. You stand there, in stunned confusion.</string>
-    <string name="SC01">scenario</string>
-    <string name="SC01">scenario</string>
-
 </resources>
